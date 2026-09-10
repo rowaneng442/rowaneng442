@@ -1,16 +1,18 @@
-## Hi there 👋
+### hey, i'm rowan (@rowaneng442) 👋
 
-<!--
-**rowaneng442/rowaneng442** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Systems developer based in Toronto. Most of my time goes into Rust, low-level C debugging, and playing with Linux internals / WebAssembly runtimes.
 
-Here are some ideas to get you started:
+#### what i'm up to
+- 🦀 Writing low-overhead systems tooling and small CLI utilities in Rust
+- 📦 Compiling native modules to WASM (mostly experimenting with wasmtime)
+- 🐧 Tinkering with eBPF and tracing tools on Linux
+- 📖 Currently reading *Database Internals* by Alex Petrov
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### stack & tools
+- **Languages:** Rust, C, POSIX Shell, Python
+- **Systems:** Linux (perf, strace, eBPF), WebAssembly, Git, Docker
+- **Editor:** Neovim + tmux
+
+#### connect
+- Email: `rowan.eng442@pm.me`
+- Open an issue or PR on any of my public repos
